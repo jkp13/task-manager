@@ -1,0 +1,31 @@
+The project is about the task management it is useful for us in adding the task according to different category's we want and we can set the priority,time,
+discription about the task,and set the status of the task .this text is about the use of every page in the project.
+
+INDEX - This is the starting page and the registration page of the project . This contains the validation and required information are user name,email,password
+        to login in the home page
+        
+ENTER - this page checks the user input information with the information prsent in the data base inserted by the index page and helps to login to home page.
+
+HOMEPAGE - this is the home page for this project .This page contain the all the tasks added by the user and the buttons to add the task and add the category and
+           arrange the category according to the category.
+
+stylesheet -  This is the css code for the homepage
+
+SUBHOME - This is the same page as the home page but it contains the tasks according to the selected category
+
+taskfillsheet - This is the form fill sheet contains the title,discription,priority,cateogry added by us , time and date if needed and the task status .
+
+taskinsert- This file helps us to add the task data collected in the taskfillsheet to the data base and heads us to the home page alos the added task will be displayed there 
+
+taskdelete - This helps us to delete the task we needed to delete. 
+
+ADDCAT - This page helps us to add the category we need with the validations. The added category will display on the side navbar of the home page and in the formfillsheet
+         to select the category we need.
+
+taskupdate - this help us to edit the saved task.
+
+ABOUT - this page contains the tasks which are present in particular task and a small introduction about the project.
+
+signout - This help us to signout of ou account.
+
+The technology used in the project is HML,CSS,JAVA SCRIPT,BOOTSTRAP , PHP and MYSQL which includes both frount end and back end.
